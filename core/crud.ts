@@ -11,4 +11,4 @@ function create(content: string){
 }
 
 //simulação
-console.log(create("Hello, Hello!! "))
+console.log(create("Hello, Hello!!! "))
