@@ -1,28 +1,16 @@
 {
   "todos": [
     {
-      "id": "c27c0c34-827c-4328-a00c-3d89fa21512e",
-      "date": "09/03/2024, 18:40:14",
-      "content": "first ToDo ",
+      "id": "b135bc9d-be91-4a24-9352-f5e228f36bfc",
+      "date": "21/03/2024, 15:51:27",
+      "content": "Primeira ToDo ",
       "done": false
     },
     {
-      "id": "d769a269-1268-42b5-9dc5-b8d98cfb43a6",
-      "date": "09/03/2024, 18:40:14",
-      "content": "segunda ToDo ",
+      "id": "f44cc02b-8b4f-4738-8bb0-393d6e1d9adf",
+      "date": "21/03/2024, 15:51:27",
+      "content": "Atualizada",
       "done": false
-    },
-    {
-      "id": "1edc272a-2284-46f2-a180-8bdc2a903962",
-      "date": "09/03/2024, 18:40:14",
-      "content": "terceira ToDo ",
-      "done": false
-    },
-    {
-      "id": "8e80aece-66f6-403c-ba90-ed42b298e854",
-      "date": "09/03/2024, 18:40:14",
-      "content": "Atualizada!",
-      "done": true
     }
   ]
 }
