@@ -103,11 +103,11 @@ function CLEAR_DB() {
 CLEAR_DB();
 create("first ToDo ");
 create("segunda ToDo ");
-create("terceira ToDo ");
 
 const terceiraTodo = create("Second ToDo");
-update(terceiraTodo.id, {
-  content: "Atualizada!",
-  done: true,
-});
+//update(terceiraTodo.id, {
+// content: "Atualizada!",
+//  done: true,
+//});
+updateContentByID(terceiraTodo.id, "Atualizada")
 console.log(read());
